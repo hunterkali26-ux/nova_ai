@@ -1,0 +1,22 @@
+2026-11-18 20:38:28 | INFO | nova.tokenizer | CharTokenizer fitted with 21 tokens (max_vocab_size=None)
+2026-11-18 20:38:28 | INFO | nova.tokenizer | Tokenizer saved to /tmp/tmp9ducdcpa.json (21 tokens)
+2026-11-18 20:38:28 | INFO | nova.tokenizer | Tokenizer loaded from /tmp/tmp9ducdcpa.json (21 tokens)
+2026-11-18 20:40:45 | INFO | nova.database | Migrating /tmp/tmpk2ny602r.db from schema v0 to v1
+2026-11-18 20:55:39 | INFO | nova.knowledge.embeddings | TfidfEmbedding fitted with 42 terms over 7 docs
+2026-11-18 20:55:39 | INFO | nova.knowledge.duplicate_detector | Duplicate detected for source a
+2026-11-18 20:55:39 | INFO | nova.knowledge.duplicate_detector | Duplicate detected for source a
+2026-11-18 21:15:16 | INFO | nova.database | Migrating /home/kali/Projects/NOVA-AI/databases/conversations.db from schema v0 to v1
+2026-11-18 21:15:16 | INFO | nova.database | Migrating /home/kali/Projects/NOVA-AI/databases/knowledge.db from schema v0 to v1
+2026-11-18 21:15:16 | INFO | nova.database | Migrating /home/kali/Projects/NOVA-AI/databases/training.db from schema v0 to v1
+2026-11-18 21:47:36 | INFO | nova.tokenizer | CharTokenizer fitted with 19 tokens (max_vocab_size=None)
+2026-11-18 21:47:36 | INFO | nova.tokenizer | Tokenizer saved to /tmp/nova_tok.json (19 tokens)
+2026-11-18 21:47:36 | INFO | nova.tokenizer | Tokenizer loaded from /tmp/nova_tok.json (19 tokens)
+2026-11-18 21:52:51 | INFO | nova.tokenizer | CharTokenizer fitted with 19 tokens (max_vocab_size=None)
+2026-11-18 21:52:51 | INFO | nova.tokenizer | Tokenizer saved to /tmp/nova_tok.json (19 tokens)
+2026-11-18 21:52:51 | INFO | nova.tokenizer | Tokenizer loaded from /tmp/nova_tok.json (19 tokens)
+2026-11-18 21:53:09 | INFO | nova.tokenizer | CharTokenizer fitted with 19 tokens (max_vocab_size=None)
+2026-11-18 21:53:09 | INFO | nova.tokenizer | Tokenizer saved to /tmp/nova_tok.json (19 tokens)
+2026-11-18 21:53:09 | INFO | nova.tokenizer | Tokenizer loaded from /tmp/nova_tok.json (19 tokens)
+2026-11-18 21:53:33 | INFO | nova.tokenizer | CharTokenizer fitted with 19 tokens (max_vocab_size=None)
+2026-11-18 21:53:33 | INFO | nova.tokenizer | Tokenizer saved to /tmp/nova_tok.json (19 tokens)
+2026-11-18 21:53:33 | INFO | nova.tokenizer | Tokenizer loaded from /tmp/nova_tok.json (19 tokens)

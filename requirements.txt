@@ -1,0 +1,29 @@
+# NOVA AI - pinned runtime dependencies (Python 3.14, CPU-only)
+# CPU-only PyTorch wheel from the official PyTorch CPU index.
+torch==2.15.0+cpu
+--index-url https://download.pytorch.org/whl/cpu
+
+# Desktop GUI (PySide6)
+PySide6==6.12.0
+
+# Backend API
+fastapi==0.164.0
+uvicorn==0.54.0
+pydantic==2.14.3
+python-multipart==0.0.34
+
+# Tokenization (optional BPE)
+tokenizers==0.23.3
+
+# Document processing
+pypdf==7.1.1
+beautifulsoup4==4.15.0
+markdown==3.11.3
+python-dotenv==1.2.4
+
+# Embeddings / RAG (optional, downloaded explicitly)
+sentence-transformers==6.3.0
+faiss-cpu==1.16.0
+
+# Testing
+pytest==9.2.0
